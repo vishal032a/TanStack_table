@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TanStack_table/static/css/main.dc4d6ff2.css",
+    "main.js": "/TanStack_table/static/js/main.a2614724.js",
+    "static/js/787.0f8d78ff.chunk.js": "/TanStack_table/static/js/787.0f8d78ff.chunk.js",
+    "index.html": "/TanStack_table/index.html",
+    "main.dc4d6ff2.css.map": "/TanStack_table/static/css/main.dc4d6ff2.css.map",
+    "main.a2614724.js.map": "/TanStack_table/static/js/main.a2614724.js.map",
+    "787.0f8d78ff.chunk.js.map": "/TanStack_table/static/js/787.0f8d78ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.a2614724.js"
+  ]
+}
